@@ -13,5 +13,19 @@ elif(n==4):
     Print(f'n1/n2 is: {n1/n2})
 else:
     Print(f' Invalid Input')
+    
+    
+    
+#a=5 & b=6
+a=5
+b=6
+a=a+b
+b=a-b
+a=a-b
+print(f'a={a}')
+print(f'b={b}')
+
+
+
 
 
